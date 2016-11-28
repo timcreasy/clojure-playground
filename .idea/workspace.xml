@@ -100,7 +100,7 @@
       </pane>
     </panes>
   </component>
-  <component name="ReplState" timestamp="1480369274392">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="ReplState" timestamp="1480369937858">{:repl-history {:ide [], :local [], :remote []}}</component>
   <component name="RunManager" selected="Clojure REPL.Leiningen REPL">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
